@@ -1,1 +1,16 @@
-
+#nav-list {
+    background-color: lavenderblush;
+}
+#nav-list > li {
+    border-bottom: 1px solid black;
+}
+#heading {
+    text-align: center;
+}
+.menuItem {
+    background-color: lightgray;
+    border: 2px solid black;
+    box-sizing: border-box;
+    min-height: 1000px;
+    width: 100%;
+}
